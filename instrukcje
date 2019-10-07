@@ -1,0 +1,5 @@
+./mongod - uruchamia mongodb deamona 
+
+node app.js - uruchamia aplickacje 
+
+publiczny adres ip chyba se zmienia, mial wpisany http://3.19.188.218:8080/ ale teraz nie dziala
