@@ -45,7 +45,7 @@
                             <%= comment.author.username %>
                            
                             <span class="pull-right">
-                                <!--get current date-->
+                                <!--get current date from timestamp of the mongodb-->
                                 <% var id = comment._id;
                                 var idStr = comment._id.getTimestamp();
                                 var idStrShort =  idStr.toString();
